@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Web Page</title>
+</head>
+
+<body>
+<h1>Welcome to My First WebPage!</h1>
+<h2>My name is Ramyashree.</h2>
+<h3>I hope you like it.</h3>
+
+<img src="https://www.wallpapers13.com/wp-content/uploads/2015/12/Nature-Lake-Bled.-Desktop-background-image-840x525.jpg">
+<a href="https://www.facebook.com">Facebook</a>
+<body style="background-color:lavender;">
+</body>
+</html>
